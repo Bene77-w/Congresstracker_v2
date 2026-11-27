@@ -22,7 +22,7 @@ Analysen für die Übernahme stehen unter `docs/uebernahme/`.
 
 ## Offene Entscheidungen
 
-In dieser Reihenfolge, weil die späteren von den früheren abhängen:
+Die vollständige Liste (59 Fragen mit Empfehlung und Abhängigkeiten) steht in `docs/recherche/offene-fragen.md`. Die Kernfragen in dieser Reihenfolge, weil die späteren von den früheren abhängen:
 
 | # | Frage | Stand |
 |---|---|---|
