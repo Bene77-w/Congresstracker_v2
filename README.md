@@ -4,7 +4,7 @@ Neubau des Congress Trade Trackers. Die Architektur und die Konventionen entsteh
 
 **Stand:** Planung, noch kein Code.
 
-**Entschieden (2026-11-27):** Das Dashboard ist öffentlich und hat keinen kommerziellen Zweck. Bei der Trade-Quelle bleibt Quiver möglich, andere Anbieter sind ebenfalls denkbar (`docs/recherche/trade-datenquellen.md`).
+**Entschieden (2026-11-27):** Das Dashboard ist öffentlich und hat keinen kommerziellen Zweck. Bei der Trade-Quelle bleibt Quiver möglich, andere Anbieter sind ebenfalls denkbar.
 
 ## Altbestand (v1)
 
@@ -22,7 +22,7 @@ Analysen für die Übernahme stehen unter `docs/uebernahme/`.
 
 ## Offene Entscheidungen
 
-Die vollständige Liste (59 Fragen mit Empfehlung und Abhängigkeiten) steht in `docs/recherche/offene-fragen.md`. Die Kernfragen in dieser Reihenfolge, weil die späteren von den früheren abhängen:
+Die Kernfragen in dieser Reihenfolge, weil die späteren von den früheren abhängen:
 
 | # | Frage | Stand |
 |---|---|---|
